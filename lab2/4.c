@@ -3,7 +3,7 @@
 Name : 4.c
 Author : Aryan Patel
 Description : 4. Write a program to open an existing file with read write mode. Try O_EXCL flag also.         
-Date: 10th Aug, 2023.
+Date: 11 Aug, 2023.
 ============================================================================
 */
 #include <stdio.h>
